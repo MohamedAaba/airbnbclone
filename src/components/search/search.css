@@ -1,0 +1,19 @@
+.search {
+   width: 50%;
+}
+
+.search-first,
+.search-forth {
+   width: 28%;
+}
+
+.search-second,
+.search-third {
+   width: 18%;
+}
+
+input {
+   outline: none;
+   background: none;
+   color: #646464;
+}
